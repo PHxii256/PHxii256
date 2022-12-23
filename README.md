@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>👋 Hi, I'm PHxii!</h1> 
+<b>I'm a Unity C# Programmer with at least 2 years of serious experince with the engine</b>
 
-<!--
-**PHxii256/PHxii256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Sample Projects:</h2> 
 
-Here are some ideas to get you started:
+- <b>2D Slingshot type movement and guiding system</b>
+  - [Aim guiding system](https://github.com/PHxii256/ShowcaseRepo/blob/main/AimGuide.cs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🌱 I’m currently learning</h2>
+- <b>Networking for Gameobjects (Unity's offical soloution to multiplayer)</b>
+
+<h2>📫 How to reach me</h2>
+- <b>DM me on discord! (PHxii#9213)</b>
