@@ -5,7 +5,8 @@
 
 - <b>2D Slingshot type movement and guiding system</b>
   - [Aim guiding system](https://github.com/PHxii256/Aim-Guide)
-  - [Dynamic 2D Loop / Area damage system](https://github.com/PHxii256/2D-Loop)
+- <b>Dynamic 2D Loop / Area generation system</b>
+  - [2D-Loop](https://github.com/PHxii256/2D-Loop)
 
 <h2>🌱 I’m currently learning</h2>
 - <b>Networking for Gameobjects (Unity's offical soloution to multiplayer)</b>
