@@ -4,7 +4,7 @@
 <h2>👨‍💻 Sample Projects:</h2> 
 
 - <b>2D Slingshot type movement and guiding system</b>
-  - [Aim guiding system](https://github.com/PHxii256/ShowcaseRepo/blob/main/AimGuide.cs)
+  - [Aim guiding system](https://github.com/PHxii256/Aim-Guide)
 
 <h2>🌱 I’m currently learning</h2>
 - <b>Networking for Gameobjects (Unity's offical soloution to multiplayer)</b>
